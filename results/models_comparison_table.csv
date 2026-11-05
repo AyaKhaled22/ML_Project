@@ -1,0 +1,4 @@
+Task Type,Algorithm Used,Evaluation Metric,Score / Result,Interpretation
+Classification,Logistic Regression,Accuracy,88.52%,Excellent at predicting heart disease.
+Regression,Linear Regression,R² Score / RMSE,R²=0.0482 / RMSE=8.39,Poor; Age cannot be accurately predicted from these features.
+Clustering,K-Means,Silhouette Score,0.1658,Moderate clustering; Data points overlap significantly.
