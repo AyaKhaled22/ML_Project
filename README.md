@@ -31,4 +31,4 @@ Dataset source: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/dataset/
 https://colab.research.google.com/drive/1Cw_rOmiSAVdnzCaoe3Beoxj8Lfy6A8vn?usp=sharing
 
 ## Project Report
-(project_report.pdf)
+https://github.com/AyaKhaled22/ML_Project/blob/main/project_report.pdf
